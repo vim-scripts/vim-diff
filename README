@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3804
+
+Usage:
+  :set runtimepath+=/path/to/vim-diff
+  :set diffexpr=diff#diffexpr()
+
+latest source: https://github.com/ynkdir/vim-diff
